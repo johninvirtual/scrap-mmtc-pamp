@@ -1,4 +1,4 @@
-# scrape-mmtc-pamp
+# scrap-mmtc-pamp
 
 Scraps mmtc-pamp gold rate from paytm and stores it in an csv file
 
